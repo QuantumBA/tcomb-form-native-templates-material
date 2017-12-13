@@ -1,0 +1,25 @@
+{
+  "name": "tcomb-form-native-templates-material",
+  "version": "0.0.0",
+  "description": "Material UI templates for `tcomb-form-native`",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuantumBA/tcomb-form-native-templates-material.git"
+  },
+  "author": "Quantum BA (http://www.quantum-ba.com/)",
+  "contributors": [
+    "Jesús Leganés-Combarro 'piranna' <piranna@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuantumBA/tcomb-form-native-templates-material/issues"
+  },
+  "homepage": "https://github.com/QuantumBA/tcomb-form-native-templates-material#readme",
+  "dependencies": {
+    "react-native-material-dropdown": "^0.6.1",
+    "react-native-material-textfield": "^0.11.0",
+    "react-native-material-ui": "^1.18.0",
+    "react-native-web-lists": "^0.1.0"
+  }
+}

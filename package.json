@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/QuantumBA/tcomb-form-native-templates-material#readme",
   "dependencies": {
-    "react-native-material-textfield": "^0.11.0",
-    "react-native-material-ui": "^1.18.0",
-    "react-native-web-lists": "^0.1.0"
+    "react-native-material-textfield": "^0.12.0",
+    "react-native-material-ui": "^1.19.0",
+    "react-native-web-lists": "^0.1.1"
   }
 }

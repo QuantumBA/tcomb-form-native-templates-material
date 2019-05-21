@@ -1,6 +1,6 @@
 {
   "name": "tcomb-form-native-templates-material",
-  "version": "0.0.37",
+  "version": "0.0.38",
   "description": "Material UI templates for `tcomb-form-native`",
   "main": "lib",
   "repository": {
